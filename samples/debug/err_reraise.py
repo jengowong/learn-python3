@@ -14,4 +14,3 @@ def bar():
         raise
 
 bar()
-

@@ -9,4 +9,3 @@ def main():
     bar('0')
 
 main()
-
